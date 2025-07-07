@@ -1,0 +1,13 @@
+[project]
+name = "project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [bs4
+serpapi
+rich
+requests
+python-dotenv
+openai-agents
+pydantic]
